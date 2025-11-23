@@ -1,9 +1,3 @@
-# Personal Portfolio Website (Lab 1)
-
-**Student Name:** Aark Bharti  
-**Course:** B.Tech CSE (1st Year)  
-**Assignment:** Lab 1 - Semantic HTML Structure
-
 ## Project Description
 This is a one-page personal portfolio website created using **Semantic HTML5** tags. The purpose of this project is to demonstrate the correct usage of document structure tags without relying on CSS for styling.
 
